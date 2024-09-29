@@ -1,7 +1,3 @@
-Here’s a detailed and well-structured `README.md` file that you can use for your GitHub repository, including all the requested elements:
-
----
-
 # **Bob's Mystical Adventure**
 
 **Bob's Mystical Adventure** is a retro-style Game Boy game built using GB Studio. It follows the story of Bob, an adventurous kid, as he embarks on a journey to find four mystical artifacts hidden throughout his quirky village. The goal is to assemble a key that unlocks a mysterious portal and reveals a surprising, climactic event.
@@ -107,7 +103,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## **Contact**
 
 For any questions, feedback, or issues, feel free to contact the developer via GitHub or email.
-
----
-
-This `README.md` provides an attractive, detailed overview of the game while also crediting the software used for development and distribution. Let me know if you need additional changes!
